@@ -1,0 +1,20 @@
+{
+  "name": "AHMAD_kHEDER_AGS_international",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@chakra-ui/icons": "^2.0.19",
+    "@chakra-ui/react": "^2.6.1",
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "@types/react-datepicker": "^4.11.2",
+    "formik": "^2.2.9",
+    "framer-motion": "^10.12.12",
+    "react-datepicker": "^4.11.0"
+  },
+  "scripts": {
+    "build": "vite build"
+  }
+  
+}
